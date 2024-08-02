@@ -1,2 +1,2 @@
 # Live! IPTV
-IPTV Player For Web
+Web App IPTV Player
